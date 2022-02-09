@@ -6,6 +6,7 @@ layout:
   post: Post
   category: Category
   tag: Tag
+  tools: Tools
 
 # The tabs of sidebar
 tabs:
